@@ -1,0 +1,9 @@
+name = "blockRSAProver"
+uuid = "99391812-ee45-11e8-1834-d74a7720b345"
+authors = ["Igor Gulamov <igor.gulamov@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Primes = "27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae"
+TickTock = "9ff05d80-102d-5586-aa04-3a8bd1a90d20"
